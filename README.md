@@ -39,7 +39,7 @@ Hardware modifications in this design will void your devices' warranty. The code
   + Note that the patched firmware "wil6210.fw" used in [ACO](https://dl.acm.org/doi/abs/10.1145/3241539.3241576) does not work for our code.
 * Your AP and STA should be connected via either ethernet port or sub-6 WiFi link, and the corresponding network interfaces should have IPv4 addresses under the same subnet, say ```AP: 192.168.0.10/24, STA: 192.168.0.66/24```.
 
-#### Run with our codebook
+#### Run
 * Make sure you already calibrate your experiment settings following the preliminary.
 * Install all the dependencies on your AP and STA machine.
 * Clone this repo to your STA machine by
