@@ -40,9 +40,8 @@ Hardware modifications in this design will void your devices' warranty. The code
 * Your AP and STA should be connected via either ethernet port or sub-6 WiFi link, and the corresponding network interfaces should have IPv4 addresses under the same subnet, say ```AP: 192.168.0.10/24, STA: 192.168.0.66/24```.
 
 #### Run
-* Make sure you already calibrate your experiment settings following the preliminary.
 * Install all the dependencies on your AP and STA machine.
-* Clone this repo to your STA machine by
+* Clone this repo to your AP machine by
   ```
   git clone git@github.com:ChanghanGe/4KVideo-Multicast-mmWave.git
   cd 4KVideo-Multicast-mmWave
