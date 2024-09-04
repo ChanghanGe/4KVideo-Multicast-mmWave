@@ -64,16 +64,21 @@ Hardware modifications in this design will void your devices' warranty. The code
 # Cite Our Work
 #### Bibtex
   ```
-  @INPROCEEDINGS{10631023,
-    author={He, Zhaoyuan and Ge, Changhan and Li, Wangyang and Qiu, Lili and Li, Peijie and Baig, Ghufran},
-    booktitle={2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS)}, 
-    title={Optimized Live 4K Video Multicast Streaming on Commodity WiGig Devices}, 
-    year={2024},
-    volume={},
-    number={},
-    pages={1131-1142},
-    keywords={Video coding;Scheduling algorithms;Source coding;Redundancy;Emulation;Dynamic scheduling;Quality assessment;Video streaming;Millimeter-wave;Multicast;Layered coding},
-    doi={10.1109/ICDCS60910.2024.00108}
+  @inproceedings{ICDCS24,
+    author = {He, Zhaoyuan and Ge, Changhan and Li, Wangyang and Qiu, Lili and Li, Peijie and Baig, Ghufran},
+    title = {Optimized Live 4K Video Multicast Streaming on Commodity WiGig Devices},
+    year = {2024},
+    isbn = {00000000},
+    publisher = {IEEE},
+    address = {Piscataway, NJ, USA},
+    url = {https://doi.org/10.1109/ICDCS60910.2024.00108},
+    doi = {10.1109/ICDCS60910.2024.00108},
+    booktitle = {Proceedings of the 44th International Conference on Distributed Computing Systems (IEEE ICDCS '24)},
+    pages = {1131-1142},
+    numpages = {12},
+    keywords = {Video streaming, Millimeter-wave, Multicast},
+    location = {Jersey City, New Jersey, USA},
+    series = {IEEE ICDCS '24},
   }
   ```
 
