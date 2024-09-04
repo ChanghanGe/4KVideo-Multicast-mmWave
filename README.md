@@ -11,6 +11,8 @@ Read our paper [here](https://ieeexplore.ieee.org/abstract/document/10631023)
 # Warning & Disclaimer
 Hardware modifications in this design will void your devices' warranty. The code requires root access to the operating system and will hijack the network interface, which may cause data leakage and irreversible damage to your OS and hardware. Users try our code at their own risk and responsibility. Meanwhile, we are not responsible for problems caused by third party software involved in our code.
 
+# Emulation
+
 ### Generate mmWave CSI trace using Wireless Insite
 * Wireless Insite version tested: v3.4.4.14
 * A valid Wireless Insite license (with X3D feature) is required. Please contact [Remcom](https://www.remcom.com/wireless-insite-em-propagation-software) for details.
