@@ -1,4 +1,4 @@
-# ICDCS 2024 4K Video Multicast via  mmWave Source Code
+# ICDCS24 4K Video Multicast via  mmWave Souce Code
 Source Code of "Optimized Live 4K Video Multicast Streaming on Commodity WiGig Devices" (IEEE ICDCS 2024)
 
 #### PI: [Dr. Lili Qiu](https://www.cs.utexas.edu/~lili/) @ The University of Texas at Austin & Microsoft Research Asia Shanghai <br>
