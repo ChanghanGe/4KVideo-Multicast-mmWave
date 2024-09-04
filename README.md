@@ -60,4 +60,36 @@ Hardware modifications in this design will void your devices' warranty. The code
   chmod a+x ./codebook/wil6210_brd_mod
   chmod a+x ./firmware/patched_fw/wil6210.fw
   chmod a+x ./firmware/wil6210_server-2.2.0
+  ```
 
+# Cite Our Work
+#### Bibtex
+  ```
+  @INPROCEEDINGS{10631023,
+    author={He, Zhaoyuan and Ge, Changhan and Li, Wangyang and Qiu, Lili and Li, Peijie and Baig, Ghufran},
+    booktitle={2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS)}, 
+    title={Optimized Live 4K Video Multicast Streaming on Commodity WiGig Devices}, 
+    year={2024},
+    volume={},
+    number={},
+    pages={1131-1142},
+    keywords={Video coding;Scheduling algorithms;Source coding;Redundancy;Emulation;Dynamic scheduling;Quality assessment;Video streaming;Millimeter-wave;Multicast;Layered coding},
+    doi={10.1109/ICDCS60910.2024.00108}
+  }
+  ```
+
+#### ACM Reference Format
+Zhaoyuan. He, Changhan. Ge, Wangyang. Li, Lili. Qiu, Peijie. Li and Ghufran. Baig, "Optimized Live 4K Video Multicast Streaming on Commodity WiGig Devices," 2024 IEEE 44th International Conference on Distributed Computing Systems (IEEE ICDCS 2024), Jersey City, NJ, USA, 2024, pp. 1131-1142, doi: 10.1109/ICDCS60910.2024.00108.
+
+# Acknowledgement
+This work is supported in part by NSF Grant [CNS-2008824](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008824&HistoricalAwards=false) and [CNS-2107037](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107037&HistoricalAwards=false). We appreciate the insightful feedback from ACM MobiHoc 2023 anonymous reviewers.
+
+#### The code in this repository is partly inherited from the following sources:
+* Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, and Xinyu Zhang. 2020. M-Cube: a millimeter-wave massive MIMO software radio. In Proceedings of the 26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20). Association for Computing Machinery, New York, NY, USA, Article 15, 1–14. DOI:https://doi.org/10.1145/3372224.3380892
+
+* Song Wang, Jingqi Huang, Xinyu Zhang, Hyoil Kim, and Sujit Dey. 2020. X-Array: approximating omnidirectional millimeter-wave coverage using an array of phased arrays. In Proceedings of the 26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20). Association for Computing Machinery, New York, NY, USA, Article 5, 1–14. https://doi.org/10.1145/3372224.3380882
+
+We greatly appreciate the sources above but we are not responsible for any potential problem caused by them.
+
+# Contact Us
+If you have any question regarding our work, please contact Zhaoyuan He at zyhe@utexas.edu.
